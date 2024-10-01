@@ -43,5 +43,4 @@ The notebooks will generate output files based on the exercises and operations p
 ## Conclusion
 This repository serves as a practical resource for anyone interested in learning and practicing Biopython. Feel free to explore the notebooks, experiment with the code, and enhance your bioinformatics skills!
 
-## NOTE: other modules will be added soon!
 
