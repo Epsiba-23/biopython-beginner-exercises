@@ -25,7 +25,7 @@ Download the datasets from the Datasets_Biopython/ folder and upload them to you
 ### Mount Google Drive:
 If you are using Google Colab, make sure to mount your Google Drive in your notebook. You can do this by running the following code snippet in a cell:
 
-python- Copy code:
+python- Copy code: DONE TO ALL MODULE NOTEBOOK.
 ```
 from google.colab import drive
 drive.mount('/content/drive')
