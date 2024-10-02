@@ -16,10 +16,29 @@ The third module focuses on specific applications of Biopython, allowing users t
 ## Getting Started
 To get started with the exercises in this repository, follow these steps:
 
+[Open the Notebook on GitHub](https://github.com/Epsiba-23/biopython-beginner-exercises/blob/main/Module4_kegg.ipynb)
+
+## Running the Notebook
+
+### 1) BY DOWNLOADING THE FILE DIRECTLY TO YOUR PC.
+
+1. **Download the Notebook**:
+   - Click on the **"Download"** button on the notebook page to download the `.ipynb` file.
+
+2. **Upload to Google Drive**:
+   - Go to [Google Drive](https://drive.google.com/).
+   - Click on the **"+ New"** button on the left sidebar.
+   - Select **"File upload,"** and upload the downloaded `.ipynb` file.
+
+3. **Open in Google Colab**:
+   - Once uploaded, right-click on the notebook file in Google Drive.
+   - Choose **"Open with" > "Google Colaboratory."**
+
+## Note
+Make sure to have the required libraries installed in your environment to run the notebook smoothly.
+
 ### Clone the Repository: 
 Clone this repository to your local machine or directly open it in Google Colab.
-
-[OPEB NOTEBOOK ] (https://colab.research.google.com/drive/1zG60KVGSVTmIHKl0TIRJ-6UMmbWubddM?authuser=1)
 
 ### Load Datasets:
 Download the datasets from the Datasets_Biopython/ folder and upload them to your Google Drive.
