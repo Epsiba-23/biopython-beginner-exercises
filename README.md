@@ -19,6 +19,8 @@ To get started with the exercises in this repository, follow these steps:
 ### Clone the Repository: 
 Clone this repository to your local machine or directly open it in Google Colab.
 
+[OPEB NOTEBOOK ] (https://github.com/Epsiba-23/biopython-beginner-exercises/blob/main/Module4_kegg.ipynb)
+
 ### Load Datasets:
 Download the datasets from the Datasets_Biopython/ folder and upload them to your Google Drive.
 
